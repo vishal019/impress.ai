@@ -1,0 +1,64 @@
+input{
+
+    
+    position: relative;
+    cursor: text;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 16px;
+    height: 48px;
+    background-color: #fff;
+    border: 1px solid #d6d6e7;
+    border-radius: 3px;
+    color: rgb(35, 38, 59);
+ 
+ 
+  
+
+}
+
+#main-container-wrapper{
+
+    text-align: center;
+}
+
+.header-box{
+
+   padding-top: 30px;
+
+    
+}
+
+
+button{
+
+    border: 0;
+    text-align: center;
+    display: inline-block;
+    
+    margin: 20px;
+    color: #ffffff;
+    background-color: #36a2eb;
+    border-radius: 8px;
+    
+    
+    
+}
+
+table{
+
+    
+   margin-left: 30%;
+   margin-top: 30px;
+}
+
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+
+ #delete{
+    background-color: red;
+ } 
